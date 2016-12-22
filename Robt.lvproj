@@ -15,6 +15,8 @@
 		<Item Name="Lidar.vi" Type="VI" URL="../Lidar.vi"/>
 		<Item Name="Lidar_dis.vi" Type="VI" URL="../Lidar_dis.vi"/>
 		<Item Name="robot_dis.vi" Type="VI" URL="../robot_dis.vi"/>
+		<Item Name="systemInfo.vi" Type="VI" URL="../systemInfo.vi"/>
+		<Item Name="控件 1.ctl" Type="VI" URL="../控件 1.ctl"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -72,7 +74,6 @@
 			<Item Name="U8-U32.vi" Type="VI" URL="../U8-U32.vi"/>
 			<Item Name="全局变量.vi" Type="VI" URL="../全局变量.vi"/>
 			<Item Name="数据类型转换.vi" Type="VI" URL="../数据类型转换.vi"/>
-			<Item Name="选项卡.ctl" Type="VI" URL="../选项卡.ctl"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build">
 			<Item Name="Tetraelc-robot" Type="EXE">
@@ -90,7 +91,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/D/share</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6C5ED19F-A9D0-4EEC-AC64-3E7ADB14A3A1}</Property>
-				<Property Name="Bld_version.build" Type="Int">38</Property>
+				<Property Name="Bld_version.build" Type="Int">41</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Tetraelc-robot.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/D/share/Tetraelc-robot.exe</Property>
