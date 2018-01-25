@@ -144,7 +144,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/D/steupRobot/robotEXE</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6C5ED19F-A9D0-4EEC-AC64-3E7ADB14A3A1}</Property>
-				<Property Name="Bld_version.build" Type="Int">112</Property>
+				<Property Name="Bld_version.build" Type="Int">124</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Tetraelc-robot-V5.0.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/D/steupRobot/robotEXE/Tetraelc-robot-V5.0.exe</Property>
@@ -155,46 +155,46 @@
 				<Property Name="Destination[1].path" Type="Path">/D/steupRobot/robotEXE/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[0]" Type="Str">{AAAD4531-5F94-4A59-864A-363F209E1F6E}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[1]" Type="Str">{1BF25A07-9FBB-409F-9CB4-08189BCB093A}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[10]" Type="Str">{66A96711-1901-463B-84B4-DF5FAFD1451D}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[11]" Type="Str">{D58F47B8-78C2-463A-BC30-615E758A51BD}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[12]" Type="Str">{F5EE8AD6-03A2-47A2-BA08-A651119AE7BA}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[13]" Type="Str">{6B28C8F8-A3A8-495D-99C3-BA8A675ED273}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[14]" Type="Str">{5CB597D7-F20F-45A2-88E9-9E80985E5DDF}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[15]" Type="Str">{F5E8BD18-D82E-4C8D-8D4B-E379CB5850A1}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[16]" Type="Str">{BF05A4AE-575A-44CD-A2BD-6C7807C36F73}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[2]" Type="Str">{BF958B4B-D630-490C-9B31-3BBCF412D057}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[3]" Type="Str">{791EAC6F-37F7-409D-8D00-AF7BD9619693}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[4]" Type="Str">{FA1D97F7-D628-4C75-A50E-BC62A7386B36}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[5]" Type="Str">{D1C38D29-12BD-4E74-8988-19D8D3D0D3DD}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[6]" Type="Str">{51668981-93D0-4766-B081-5F13F5124183}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[7]" Type="Str">{6B98F6E3-678B-440C-8025-1F9986506547}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[8]" Type="Str">{2508E1CC-0831-4D57-915A-745ED4EA0FE5}</Property>
-				<Property Name="Exe_actXinfo_enumCLSID[9]" Type="Str">{8FEFDBE6-7820-416B-9485-13325B28A9DE}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[0]" Type="Str">{60B963DE-FB95-47F4-A71B-92E57BE4D3BC}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[1]" Type="Str">{EF26B3F8-0963-43EC-8A15-8D6638ECE507}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[10]" Type="Str">{0D2AE60F-B77E-451C-9EBE-F597911C8FD5}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[11]" Type="Str">{40591D9F-F46B-4237-8921-7099AA46B838}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[12]" Type="Str">{339FA99C-0DEF-4761-BEE0-792CCA35BE80}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[13]" Type="Str">{09713B89-23E4-483D-8B82-B78B1C541B05}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[14]" Type="Str">{58B18AFA-A999-4D44-A90F-E695B680225D}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[15]" Type="Str">{A5034EB4-CA2F-426F-9A64-EF216B1A57A1}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[16]" Type="Str">{B9C3BEA9-80D5-4EBD-9368-E6E7F37F0310}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[2]" Type="Str">{78A5E8B7-DFB9-4162-9404-92C570E109F6}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[3]" Type="Str">{0BA10BFC-10DC-4ABE-BC47-388F4CEF66A0}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[4]" Type="Str">{21D9C1F8-6E68-4B35-9801-2E1E7429F556}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[5]" Type="Str">{33683EE3-426E-4741-ADF4-E6B6A25F4DA6}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[6]" Type="Str">{CA245041-25A4-4BDF-9005-31EACB8220C1}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[7]" Type="Str">{5BB3A75C-FCE3-40D0-8F61-9E6F8A0E1BC1}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[8]" Type="Str">{7F490597-6B50-4E38-992B-84544B8D7B7D}</Property>
+				<Property Name="Exe_actXinfo_enumCLSID[9]" Type="Str">{D7785FB0-E4AD-4CC1-85D1-3AB6B0D18FF0}</Property>
 				<Property Name="Exe_actXinfo_enumCLSIDsCount" Type="Int">17</Property>
 				<Property Name="Exe_actXinfo_majorVersion" Type="Int">5</Property>
 				<Property Name="Exe_actXinfo_minorVersion" Type="Int">5</Property>
-				<Property Name="Exe_actXinfo_objCLSID[0]" Type="Str">{34AE453F-9086-4599-9D30-2546CE271015}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[1]" Type="Str">{D2604318-9F79-41DB-ABF9-1843E77D2905}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[10]" Type="Str">{CA0319C8-CB02-4A29-8A42-3E12FF96B998}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[11]" Type="Str">{4036FBD5-8C2C-492E-95CE-785C170DFA84}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[12]" Type="Str">{FBFDF4C2-159F-47E7-A324-CEB226387E51}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[13]" Type="Str">{155A7B2F-5545-4054-BC21-B26380670406}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[2]" Type="Str">{985F6CC2-B03E-41EC-AFBA-1751DB09734F}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[3]" Type="Str">{060CA8EB-C9BD-4BB0-A0E2-AB4DA27A28D9}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[4]" Type="Str">{11A1095C-2305-4D7B-9A19-AE9FA04B0471}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[5]" Type="Str">{84A0EB24-F9E9-48B2-9F53-C8867E3CE438}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[6]" Type="Str">{1C4EC84E-4AE8-4D9E-9C18-95FF7C70E4CA}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[7]" Type="Str">{713CB944-5E40-4DE9-AB20-779FBE1CCB6A}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[8]" Type="Str">{A00D711B-8536-4EF2-9616-74C06E48322D}</Property>
-				<Property Name="Exe_actXinfo_objCLSID[9]" Type="Str">{91E275B3-55CD-450C-97C7-6F96C5C34B4C}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[0]" Type="Str">{1FC61885-0B8F-4C46-8DAC-4A6A26EA0601}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[1]" Type="Str">{8ED1E2EA-7F92-4099-AB6A-A0F856FBEF86}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[10]" Type="Str">{6320A48B-1A7F-4670-AD05-81D32F064FA4}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[11]" Type="Str">{3427D790-7C5F-4645-9BA9-1EF2471D062D}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[12]" Type="Str">{5A073AB1-73F0-4853-AE3F-A847B0D51F79}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[13]" Type="Str">{5237A4B4-A371-4C02-91CC-2953EEAE7F3B}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[2]" Type="Str">{1FC4EB72-3945-4AFE-B822-7CFAB64A9FE9}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[3]" Type="Str">{F0AC5F8A-ACCA-4DFE-BAA0-E69457A9574E}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[4]" Type="Str">{7266FD98-ADE6-4DA1-AF38-47419EFC95D4}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[5]" Type="Str">{300575E6-5C17-4750-BAC0-C84FB6EE7771}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[6]" Type="Str">{E4835114-B52B-44FA-BD0F-25260016539F}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[7]" Type="Str">{7DF4F43B-90A9-40E0-B062-A4107761798D}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[8]" Type="Str">{6AE4A4ED-2F70-4643-9DB0-5375610D3FEF}</Property>
+				<Property Name="Exe_actXinfo_objCLSID[9]" Type="Str">{0A9C2CEB-F939-4F6B-8C1E-06D6E454DABE}</Property>
 				<Property Name="Exe_actXinfo_objCLSIDsCount" Type="Int">14</Property>
 				<Property Name="Exe_actXinfo_progIDPrefix" Type="Str">TetraelcRobotV50</Property>
 				<Property Name="Exe_actXServerName" Type="Str">TetraelcRobotV50</Property>
 				<Property Name="Exe_actXServerNameGUID" Type="Str">{01AEDD43-D718-4879-A0FC-A5769358345E}</Property>
-				<Property Name="Exe_iconItemID" Type="Ref">/我的电脑/www.ico.la_814aa9e58dd034ce7661516d6209006d_128X128.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{6C659BF8-F7B3-4234-8EA9-6453239C85ED}</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/我的电脑/bitbug_favicon.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{6A48594E-8AF3-4626-966E-4029B5F7E3CE}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/我的电脑/robot_dis.vi</Property>
